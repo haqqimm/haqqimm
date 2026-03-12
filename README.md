@@ -8,7 +8,6 @@ I’m on a mission to make programming less about the boilerplate and more about
 I'm building a dynasty of developer-friendly wrappers:
 - **[ez-cpp](https://github.com/haqqimm/ez-cpp)**: Modern C++17 I/O and container printing made easy.
 - **ez-c**: (Coming Soon) Bringing simplicity back to C.
-- **ez-rust**: (Still just an idea) Making the borrow checker feel a bit more "ez".
 
 ## ⚡ My Principles
 - **DX (Developer Experience) First**: If it's hard to read, it's hard to maintain.
